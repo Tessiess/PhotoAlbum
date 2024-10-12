@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://47.100.126.188:3306/PhotoAlbum
+    username: ydy
+    password: 1234
